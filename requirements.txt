@@ -61,3 +61,5 @@ urllib3==2.5.0
 watchdog==6.0.0
 xgboost==3.0.4
 xlsxwriter==3.2.0
+sklearn-pandas==2.2.0
+pymongo==4.10.1
